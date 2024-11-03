@@ -1,5 +1,6 @@
+![MasterHead]
 ## 👋Hi, I’m Abida Sultana!
-
+<img align="right" alt="Coding" width="250" src="https://img.freepik.com/premium-vector/hijab-girl-working-with-laptop_188398-1832.jpg"><br/>
  An enthusiastic app developer dedicated to crafting user-friendly and efficient applications.<br/>
 🌟 Skills: I can develop app with Flutter framework using Dart language.<br/>
 🌱 Currently Learning: UI/UX Design, Backend Development.<br/>
